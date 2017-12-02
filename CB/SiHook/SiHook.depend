@@ -1,0 +1,204 @@
+# depslib dependency file v1.0
+1431956004 source:d:\tools\sihook\mdiclient.c
+	"mdiclient.h"
+	"sisw.h"
+	"tabctl.h"
+	"const.h"
+
+1431959509 d:\tools\sihook\mdiclient.h
+	<windows.h>
+
+1431754499 d:\tools\sihook\sisw.h
+	<windows.h>
+
+1431855263 d:\tools\sihook\tabctl.h
+	<windows.h>
+	<commctrl.h>
+	<wingdi.h>
+
+1431843849 d:\tools\sihook\const.h
+
+1431843800 source:d:\tools\sihook\siframe.c
+	<string.h>
+	<stdio.h>
+	"siframe.h"
+	"tabctl.h"
+	"const.h"
+
+1431856178 d:\tools\sihook\siframe.h
+	<windows.h>
+
+1431620740 source:d:\tools\sihook\sihook.c
+	<windows.h>
+	"siframe.h"
+	"mdiclient.h"
+
+1431753121 source:d:\tools\sihook\sisw.c
+	<string.h>
+	"tabctl.h"
+	"const.h"
+	"utils.h"
+	"sisw.h"
+
+1431955904 d:\tools\sihook\utils.h
+	<windows.h>
+
+1431855886 source:d:\tools\sihook\tabctl.c
+	"const.h"
+	"utils.h"
+	"tabctl.h"
+	"tabsubmenu.h"
+
+1432485575 source:d:\tools\sihook\utils.c
+	<string.h>
+	"utils.h"
+
+1431790021 source:d:\tools\sihook\tabctlsubmenu.rc
+
+1431790021 source:d:\tools\sihook\tabsubmenu.rc
+
+1431855799 d:\tools\sihook\tabsubmenu.h
+	<windows.h>
+	<commctrl.h>
+	<wingdi.h>
+
+1434197805 source:d:\tools\sihook\tabsubmenu.c
+	"tabsubmenu.h"
+	"const.h"
+	"utils.h"
+	<imm.h>
+
+1431956004 source:e:\work\platform\sihook5.0\mdiclient.c
+	"mdiclient.h"
+	"sisw.h"
+	"tabctl.h"
+	"const.h"
+
+1431959509 e:\work\platform\sihook5.0\mdiclient.h
+	<windows.h>
+
+1431754499 e:\work\platform\sihook5.0\sisw.h
+	<windows.h>
+
+1431855263 e:\work\platform\sihook5.0\tabctl.h
+	<windows.h>
+	<commctrl.h>
+	<wingdi.h>
+
+1488701646 e:\work\platform\sihook5.0\const.h
+
+1431843800 source:e:\work\platform\sihook5.0\siframe.c
+	<string.h>
+	<stdio.h>
+	"siframe.h"
+	"tabctl.h"
+	"const.h"
+
+1431856178 e:\work\platform\sihook5.0\siframe.h
+	<windows.h>
+
+1431620740 source:e:\work\platform\sihook5.0\sihook.c
+	<windows.h>
+	"siframe.h"
+	"mdiclient.h"
+
+1431753121 source:e:\work\platform\sihook5.0\sisw.c
+	<string.h>
+	"tabctl.h"
+	"const.h"
+	"utils.h"
+	"sisw.h"
+
+1431955904 e:\work\platform\sihook5.0\utils.h
+	<windows.h>
+
+1488694747 source:e:\work\platform\sihook5.0\tabctl.c
+	"const.h"
+	"utils.h"
+	"tabctl.h"
+	"tabsubmenu.h"
+
+1431855799 e:\work\platform\sihook5.0\tabsubmenu.h
+	<windows.h>
+	<commctrl.h>
+	<wingdi.h>
+
+1488702475 source:e:\work\platform\sihook5.0\tabsubmenu.c
+	"tabsubmenu.h"
+	"const.h"
+	"utils.h"
+	<imm.h>
+
+1431790021 source:e:\work\platform\sihook5.0\tabsubmenu.rc
+
+1432485575 source:e:\work\platform\sihook5.0\utils.c
+	<string.h>
+	"utils.h"
+
+1431956004 source:d:\sihook plus 5.0\sihook5.0\mdiclient.c
+	"mdiclient.h"
+	"sisw.h"
+	"tabctl.h"
+	"const.h"
+
+1431959509 d:\sihook plus 5.0\sihook5.0\mdiclient.h
+	<windows.h>
+
+1431754499 d:\sihook plus 5.0\sihook5.0\sisw.h
+	<windows.h>
+
+1431855263 d:\sihook plus 5.0\sihook5.0\tabctl.h
+	<windows.h>
+	<commctrl.h>
+	<wingdi.h>
+
+1488704437 d:\sihook plus 5.0\sihook5.0\const.h
+
+1431843800 source:d:\sihook plus 5.0\sihook5.0\siframe.c
+	<string.h>
+	<stdio.h>
+	"siframe.h"
+	"tabctl.h"
+	"const.h"
+
+1431856178 d:\sihook plus 5.0\sihook5.0\siframe.h
+	<windows.h>
+
+1431620740 source:d:\sihook plus 5.0\sihook5.0\sihook.c
+	<windows.h>
+	"siframe.h"
+	"mdiclient.h"
+
+1431753121 source:d:\sihook plus 5.0\sihook5.0\sisw.c
+	<string.h>
+	"tabctl.h"
+	"const.h"
+	"utils.h"
+	"sisw.h"
+
+1431955904 d:\sihook plus 5.0\sihook5.0\utils.h
+	<windows.h>
+
+1488703827 source:d:\sihook plus 5.0\sihook5.0\tabctl.c
+	"const.h"
+	"utils.h"
+	"tabctl.h"
+	"tabsubmenu.h"
+
+1431855799 d:\sihook plus 5.0\sihook5.0\tabsubmenu.h
+	<windows.h>
+	<commctrl.h>
+	<wingdi.h>
+
+1488703772 source:d:\sihook plus 5.0\sihook5.0\tabsubmenu.c
+	"tabsubmenu.h"
+	"const.h"
+	"utils.h"
+	<imm.h>
+
+1488703489 source:d:\sihook plus 5.0\sihook5.0\tabsubmenu.rc
+
+1432485575 source:d:\sihook plus 5.0\sihook5.0\utils.c
+	<string.h>
+	"utils.h"
+
